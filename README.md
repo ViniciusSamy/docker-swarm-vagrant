@@ -6,7 +6,7 @@ Setup do Vagrant para subir um service Apache em um cluster do Docker Swarm.
 
 ## Prerequesitos
  - Vagrant
- - Pacote rsync ( ```UBUNTU: sudo apt install rsync``` )
+
 
 ## How to run 
 
